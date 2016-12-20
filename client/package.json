@@ -1,5 +1,5 @@
 {
-  "name": "mytasklist",
+  "name": "angular2-todo",
   "version": "1.0.0",
   "scripts": {
     "start": "tsc && concurrently \"tsc -w\" \"lite-server\" ",

@@ -1,0 +1,22 @@
+{
+  "name": "angular2-todo",
+  "description": "simple task manager",
+  "main": "server.js",
+  "authors": [
+    "Ashok <rx4hvn@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://todo2-rx4hvn.herokuapp.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "client/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+	"jQuery": "^1.11.1",
+    "bootstrap": "^3.3.7"
+  }
+}
