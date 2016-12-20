@@ -5,7 +5,12 @@
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-	"postinstall": "cd client && npm install"
+	"postinstall": "cd client && npm install",
+	"start": "node server.js"
+  },
+  "engines": {
+	"node": "6.0.1",
+	"npm": "4.1.1"
   },
   "repository": {
     "type": "git",
